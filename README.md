@@ -8,6 +8,7 @@ Nosso objetivo era recriar uma aplicação, a partir de um layout do <strong>
 <br />
 
 link do desafio:  
+https://efficient-sloth-d85.notion.site/Desafio-avan-ado-Recriando-layout-17338681d78c439aa64ac9474d7c6d92#60ac60e3b8c84068850a5112cd0c3960
 
 ## ⚙️ Tecnologias utilizadas
 
